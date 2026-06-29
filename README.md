@@ -1,6 +1,6 @@
 # Hey, I'm Rajkamal 👋
 
-I am an aspiring Software Engineer and Web Developer. I love building practical, impactful web applications and am currently obsessed with making apps that solve real-world problems.
+I am an aspiring Software Engineer and Full Stack Developer. I love building practical, impactful web applications and I am passionate about building apps that solve real-world problems.
 
 ---
 
@@ -8,7 +8,7 @@ I am an aspiring Software Engineer and Web Developer. I love building practical,
 
 - 🚀 Eager to start my professional journey as a Software Engineer / Full Stack Developer.
 - 💻 Passionate about Full Stack Web Development and cloud-native tech (Docker, Kubernetes).
-- 🔨 Currently working on improving **[FrontendForge (codeSpace)](https://github.com/Rajkamal017/Capstone)**, a cloud-based sandboxed IDE.
+- 🔨 Currently working on improving **[Capstone (codeSpace)](https://github.com/Rajkamal017/Capstone)**, a cloud-based sandboxed IDE.
 - 🌱 Always learning, exploring, and building new things.
 
 ---
@@ -26,7 +26,7 @@ I am an aspiring Software Engineer and Web Developer. I love building practical,
 
 ### 📂 Featured Projects
 
-#### 🛠️ **[FrontendForge (codeSpace)](https://github.com/Rajkamal017/Capstone)**
+#### 🛠️ **[Capstone](https://github.com/Rajkamal017/Capstone)**
 *A zero-setup, browser-based cloud sandbox IDE that dynamically provisions isolated developer environments in a Kubernetes cluster.*
 - **Tech Stack:** React 19, Vite, Node.js (Express), MongoDB, Redis, RabbitMQ, Kubernetes, Docker, LangGraph, Mistral AI
 - **Key Features & Microservices:**
@@ -53,4 +53,4 @@ I am an aspiring Software Engineer and Web Developer. I love building practical,
 Ready to collaborate on interesting projects or chat about software engineering opportunities!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajkamal-dhan-040906291/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[EMAIL_ADDRESS])
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajkamaldhan@gmail.com)
