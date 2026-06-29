@@ -1,4 +1,4 @@
-# Hey, I'm Rajkamal 👋
+# Hi, I'm Raj Kamal 👋
 
 I am an aspiring Software Engineer and Full Stack Developer. I love building practical, impactful web applications and I am passionate about building apps that solve real-world problems.
 
