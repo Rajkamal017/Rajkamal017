@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hey, I'm Rajkamal 👋
 
-<!--
-**Rajkamal017/Rajkamal017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring Software Engineer and Web Developer. I love building practical, impactful web applications and am currently obsessed with making apps that solve real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 About Me
+
+- 🚀 Eager to start my professional journey as a Software Engineer / Full Stack Developer.
+- 💻 Passionate about Full Stack Web Development and cloud-native tech (Docker, Kubernetes).
+- 🔨 Currently working on improving **[FrontendForge (codeSpace)](https://github.com/Rajkamal017/Capstone)**, a cloud-based sandboxed IDE.
+- 🌱 Always learning, exploring, and building new things.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Technologies & Tools |
+| --- | --- |
+| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) **C++** &nbsp;&nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript** &nbsp;&nbsp; ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) **TypeScript** &nbsp;&nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python** |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) **React.js** &nbsp;&nbsp; ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) **HTML5** &nbsp;&nbsp; ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) **CSS3** &nbsp;&nbsp; ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) **Tailwind CSS** |
+| **Backend & DB** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) **Node.js** &nbsp;&nbsp; ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) **Express.js** &nbsp;&nbsp; ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) **MongoDB** &nbsp;&nbsp; ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) **PostgreSQL** |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) **Docker** &nbsp;&nbsp; ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) **Kubernetes** &nbsp;&nbsp; ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) **Git** &nbsp;&nbsp; ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) **GitHub** &nbsp;&nbsp; ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) **Postman** &nbsp;&nbsp; ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) **Linux** &nbsp;&nbsp; ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) **VS Code** |
+
+---
+
+### 📂 Featured Projects
+
+#### 🛠️ **[FrontendForge (codeSpace)](https://github.com/Rajkamal017/Capstone)**
+*A zero-setup, browser-based cloud sandbox IDE that dynamically provisions isolated developer environments in a Kubernetes cluster.*
+- **Tech Stack:** React 19, Vite, Node.js (Express), MongoDB, Redis, RabbitMQ, Kubernetes, Docker, LangGraph, Mistral AI
+- **Key Features & Microservices:**
+  - **Dynamic Environment Provisioning:** Automatically spins up a React + Vite developer pod in K8s with a wildcard subdomain reverse proxy (`router-service`) routing traffic.
+  - **Interactive Web IDE:** Contains a VS Code-style workspace featuring a file tree explorer, file editor, integrated terminal (PTY/Socket.io), and Live Preview with Vite HMR.
+  - **AI Coding Assistant:** Uses LangGraph & LangChain to run a stateful ReAct agent powered by Mistral Large, allowing users to build React apps via natural language commands.
+  - **Scale & Lifecycle Management:** Employs Redis keyspace expiry events to automatically clean up inactive sandboxes (120s TTL) and reclaim Kubernetes resources.
+  - **Event-Driven Services:** Multi-container architecture with an `auth-service` (Google OAuth 2.0) and a `notification-service` consuming RabbitMQ to dispatch email alerts.
+- [🔗 View Repository](https://github.com/Rajkamal017/Capstone)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajkamal017&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Rajkamal's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkamal017&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Langs" height="150" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+Ready to collaborate on interesting projects or chat about software engineering opportunities!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+
